@@ -5,6 +5,7 @@ Modules used :
               1. sklearn  (used for building machine learning models)
               2. matplotlib (used for plotting)
               3. GridSearchCV (used to learn a hyperperameters)
+              4. XGboost (boosting technigue)
               
 Dataset used : 
               --> train.csv
